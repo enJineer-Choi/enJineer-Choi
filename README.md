@@ -1,4 +1,7 @@
-## Hi there 👋
+## Seokjin Choe (Jin)
+
+Department of Statistics,JeonBuk National University,South Korea
+
 
 <!--
 **enJineer-Choi/enJineer-Choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
