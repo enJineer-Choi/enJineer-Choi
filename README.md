@@ -1,6 +1,6 @@
 ## Seokjin Choe (Jin)
 
-Department of Statistics,JeonBuk National University,South Korea
+### Department of Statistics&Computer Science Engineering, JeonBuk National University, South Korea
 
 
 <!--
