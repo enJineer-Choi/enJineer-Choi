@@ -2,7 +2,6 @@
 
 ### Data Scientist | Statistics × Computer Science
 
-> *"I turn messy data into decisions that matter."*
 
 ---
 
@@ -20,7 +19,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚗 [Traffic Flow Prediction](https://github.com/enJineer-Choi) | 미국 고속도로 교통량 예측 (LSTM/GRU) — UCSD QI AI Program | Python |
+| 🚗 [Traffic Flow Prediction](https://github.com/enJineer-Choi) | 미국 고속도로 교통량 예측 (LSTM/GRU) — UCSD QI AI Program | KNIME · ML · DL|
 | ✈️ [Flight Price Prediction](https://github.com/enJineer-Choi) | 항공권 가격 예측 + 최적 구매 시점 추천 시스템 | Python · XGBoost · Streamlit |
 | 🧬 [Protein EC Prediction](https://github.com/enJineer-Choi) | 단백질 서열 기반 효소 분류 번호 예측 — UNLV Data Science Program | Python · ML · Bioinformatics |
 
