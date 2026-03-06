@@ -1,4 +1,4 @@
-# Hi, I'm SeokJin Choe 👋
+# Hi, I'm SeokJin Choi 👋
 
 ### Data Scientist | Statistics × Computer Science
 
