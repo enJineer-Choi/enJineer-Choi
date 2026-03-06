@@ -7,10 +7,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Double major in **Statistics & Computer Science Engineering** @ Jeonbuk National University (GPA 3.99/4.5)
+- 🎓 Double major in **Statistics & Computer Science Engineering** @ Jeonbuk National University (GPA 4.0/4.5)
 - 🔬 Interested in **Predictive Modeling**, **Time Series Analysis**, and **Recommendation Systems**
 - 🌏 Participated in AI research programs at **UCSD** and **UNLV**
-- 📄 Published research on highway traffic flow prediction using deep learning
+- 📄 Published research on highway traffic flow prediction using AI Algorithms
 - 🏆 IBM AI Hackathon 우수상 | 한국통신학회 학부우수논문 장려상
 
 ---
@@ -19,9 +19,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🚗 [Traffic Flow Prediction](https://github.com/enJineer-Choi) | 미국 고속도로 교통량 예측 (LSTM/GRU) — UCSD QI AI Program | KNIME · ML · DL|
-| ✈️ [Flight Price Prediction](https://github.com/enJineer-Choi) | 항공권 가격 예측 + 최적 구매 시점 추천 시스템 | Python · XGBoost · Streamlit |
-| 🧬 [Protein EC Prediction](https://github.com/enJineer-Choi) | 단백질 서열 기반 효소 분류 번호 예측 — UNLV Data Science Program | Python · ML · Bioinformatics |
+| 🚗 [Traffic Flow Prediction](https://github.com/enJineer-Choi) | 미국 고속도로 교통량 예측  — UCSD QI AI Program | KNIME · ML · DL|
+| 🧬 [Protein EC Prediction](https://github.com/enJineer-Choi) | 단백질 서열 기반 효소 분류 번호 예측 — UNLV Data Science Program | Python · ML · DL · Bioinformatics |
 
 ---
 
